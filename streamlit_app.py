@@ -5,6 +5,6 @@ st.title("🌱 TouriSieve")
 st.write(
     "bonjour, voici un questionnaire sur les fuites économiques :")
 
-Aimez-vous les lasagnes ?
+st.write("Aimez-vous les lasagnes ?")
 survey.radio("Likert scale:", options=["NA", "😞", "🙁", "😐", "🙂", "😀"], horizontal=True)
 
