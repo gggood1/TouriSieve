@@ -3,5 +3,7 @@ import streamlit as st
 
 st.title("🎈 TouriSieve")
 st.write(
-    "bonjour"
+    "bonjour, voici un questionnaire sur les fuites économiques :"
+
 )
+
